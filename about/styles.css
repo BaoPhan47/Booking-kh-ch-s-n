@@ -30,6 +30,7 @@
 }
 
 .facility-item {
+    height: 420px;
     text-align: center;
     padding: 15px;
     border: 1px solid #ddd;
