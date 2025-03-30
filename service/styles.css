@@ -3,8 +3,11 @@
     background-color:  #d1e7ff;
     padding: 60px 0;
 }
-
+.services img {
+    height: 250px   ;
+}
 .service-item {
+    height: 450px;
     text-align: center;
     padding: 20px;
     background-color: #fff;
